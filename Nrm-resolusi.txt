@@ -1,10 +1,1 @@
-<heading>Resulusi dari sekarang dan tahun yang akan datang</heading>
-<qoute> Be Better for every day even just one only thing or one step make progress being grateful</qoute>
-1. reading books for every day 
-2. learning new things about programming path for what you wanna achive on this year.
-3. in this years i'm focus on the being backend developers.
-4. get a job 
-5. manage money to more be wise
-6. saving money for final expenses.
-7. learning of the meaning be peacefull and accept for my progress
-8. resolusi learning REST API
+1. learning framework laravel
