@@ -1,1 +1,4 @@
-1. learning framework laravel
+- learning new thing about programming
+- learn skill about evironment backend
+- learn skill english
+- practice programming every day 
